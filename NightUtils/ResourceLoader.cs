@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using UnityEngine;
 
-namespace PeterGriffin.NightUtils
+namespace NightUtils
 {
     static class ResourceLoader
     {
